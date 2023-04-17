@@ -12,6 +12,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="materialize/css/materialize.css">
 	<link rel="stylesheet" type="text/css" href="profile/geral.css">
+	<link rel="icon" href="profile/imagem/logo_amanda2.png">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -380,7 +381,7 @@
 					<a title="Clique para enviar e-mail" href="mailto:amandaribeiroaadv@gmail.com"><i class="fa fa-envelope" style="font-size: 30px; color: black;"></i></a>
 					E-mail: amandaribeiroaadv@gmail.com
 				</p>
-				<img src="profile/imagem/instagram.png" alt="imagem insta" style="width: 3%; margin: 8px 10px 0 0;"><a href="https://www.instagram.com/ribeiroadvv/" style="color: black;">Instagram: ribeiroadvv</a>
+				<img src="profile/imagem/instagram.png" alt="imagem insta" style="width: 2%; margin: 8px 10px 0 0;"><a href="https://www.instagram.com/ribeiroadvv/" style="color: black;">Instagram: ribeiroadvv</a>
 			</div>
 		</div>
 		
