@@ -381,7 +381,7 @@
 					<a title="Clique para enviar e-mail" href="mailto:amandaribeiroaadv@gmail.com"><i class="fa fa-envelope" style="font-size: 30px; color: black;"></i></a>
 					E-mail: amandaribeiroaadv@gmail.com
 				</p>
-				<img src="profile/imagem/instagram.png" alt="imagem insta" style="width: 2%; margin: 8px 10px 0 0;"><a href="https://www.instagram.com/ribeiroadvv/" style="color: black;">Instagram: ribeiroadvv</a>
+				<img src="profile/imagem/instagram.png" alt="imagem insta" style="width: 2%; margin: 8px 10px 0 0;"><a href="https://www.instagram.com/ribeiroadvv/" style="color: black;"></a>Instagram: ribeiroadvv
 			</div>
 		</div>
 		
