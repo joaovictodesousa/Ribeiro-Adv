@@ -224,6 +224,13 @@ p.contato{
 	margin-bottom: 0;
 	margin-top: -35px;
 }
+
+.IconInstagram {
+	width: 2%; 
+	margin: 8px 10px 0 0;
+	color: black;
+}
+
 div.nav-icons{
 
 	margin-top: 2%;
@@ -271,6 +278,10 @@ div.nav-icons a i:hover{
 	div.nav-content.container{
 
 		width: 90% !important;
+	}
+
+	.IconInstagram {
+		width: 5%; 
 	}
 }
 
@@ -360,5 +371,9 @@ div.nav-icons a i:hover{
 		position: relative !important;
 
 		padding-top: 2% !important;
+	}
+
+	.IconInstagram {
+		width: 8%; 
 	}
 }
