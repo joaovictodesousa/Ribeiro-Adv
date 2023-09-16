@@ -330,7 +330,7 @@
 
 				<div class="col s12 m12">
 
-					<h2 class="header font-padrao">O Escritório</h2>
+					<h2 class="header font-padrao" id="teste_escritorio">O Escritório</h2>
 					<div class="card" style="height: auto !important">
 						<div class="card-image">
 							<img src="profile/imagem/business.jpg">
@@ -370,7 +370,7 @@
 			
 			<div class="row container">
 
-				<h2 class="header font-padrao">Fale Conosco</h2>
+				<h2 class="header font-padrao" id="teste_escritorio">Fale Conosco</h2>
 				<p>
 					<a title="Clique para enviar mensagem" href="http://api.whatsapp.com/send?1=pt_BR&phone=5561998236805" target="_blank" id="btnWhatsapp">
 						<i class="fab fa-whatsapp" style="font-size: 30px; color: green;"></i>

@@ -384,6 +384,10 @@ div.nav-icons a i:hover{
 		.IconInstagram {
 			width: 8%; 
 		}
+
+		#teste_escritorio {
+			display: flex;
+		}
 	}
 
 }
