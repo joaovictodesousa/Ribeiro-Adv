@@ -381,7 +381,7 @@
 					<a title="Clique para enviar e-mail" href="mailto:amandaribeiroaadv@gmail.com"><i class="fa fa-envelope" style="font-size: 30px; color: black;"></i></a>
 					E-mail: amandaribeiroaadv@gmail.com
 				</p>
-				<img src="profile/imagem/instagram.png" alt="imagem insta" class="IconInstagram"><a href="https://www.instagram.com/ribeiroadvv/"></a>Instagram: ribeiroadvv
+				<img src="profile/imagem/instagram.png" alt="imagem insta" class="IconInstagram"><a href="https://www.instagram.com/ribeiroadvv/" class="linkInstagram">Instagram: ribeiroadvv</a>
 			</div>
 		</div>
 		
@@ -394,7 +394,7 @@
 		</a>
 		<ul>
 			<li><a href="http://api.whatsapp.com/send?1=pt_BR&phone=556196877009" class="btn-floating green darken-3"><i class="fab fa-whatsapp"></i></a></li>
-			<li><a href="#" class="btn-floating red darken-3"><i class="fab fa-instagram"></i></a></li>
+			<li><a href="https://www.instagram.com/ribeiroadvv" class="btn-floating red darken-3"><i class="fab fa-instagram"></i></a></li>
 			<li><a href="mailto:amandaribeiroaadv@gmail.com" class="btn-floating light-blue darken-3"><i class="fas fa-envelope"></i></a></li>
 		</ul>
 		

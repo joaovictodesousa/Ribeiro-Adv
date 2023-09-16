@@ -228,6 +228,9 @@ p.contato{
 .IconInstagram {
 	width: 2%; 
 	margin: 8px 10px 0 0;
+}
+
+.linkInstagram {
 	color: black;
 }
 
@@ -374,6 +377,13 @@ div.nav-icons a i:hover{
 	}
 
 	.IconInstagram {
-		width: 8%; 
+		width: 5%; 
 	}
+
+	@media only screen and (max-width: 500px){
+		.IconInstagram {
+			width: 8%; 
+		}
+	}
+
 }
